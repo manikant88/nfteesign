@@ -1,0 +1,20 @@
+{
+  "name": "nfteesign",
+  "version": "1.0.0",
+  "description": "Nft t-shirt designs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manikant88/nfteesign.git"
+  },
+  "keywords": ["react", "nft","design", "clothing"],
+  "author": "Manikant Mudgil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manikant88/nfteesign/issues"
+  },
+  "homepage": "https://github.com/manikant88/nfteesign#readme"
+}
